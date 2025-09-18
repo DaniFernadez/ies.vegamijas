@@ -54,6 +54,6 @@ public class A {
        System.out.println("IVA(" + ivaa + ")        " + ivaFinal );    
        System.out.println("PRecio con IVA        " + (precio+ ivaFinal));
        System.out.println("Cod.Promo.(" + descuentoo+")        -"+ descuentoo);
-       System.out.println("TOTAL        " + ((precio + iva) - descuentoo));
+       System.out.println("TOTAL        " );
     }
 }
