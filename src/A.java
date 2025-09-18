@@ -7,7 +7,7 @@ public class A {
 
         System.out.println("Nota del primer examen");
         double nota1 = sc.nextDouble();
-
+//f
         
         System.out.println("Nota del segundo examen");
         double nota2 = sc.nextDouble();
