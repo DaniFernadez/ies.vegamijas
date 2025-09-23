@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class F {
+public class F2 {
  public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduce la posición del alfil (ejemplo d4): ");
